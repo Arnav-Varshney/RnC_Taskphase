@@ -1,10 +1,35 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "Default"
+    ],
+    "hidden_nets": [
+      "",
+      "unconnected-(U1-D10-Pad13)",
+      "unconnected-(U1-D7-Pad10)",
+      "unconnected-(U1-D8-Pad11)",
+      "unconnected-(U1-D9-Pad12)",
+      "unconnected-(U1-RST-Pad28)",
+      "unconnected-(U1-D6-Pad9)",
+      "unconnected-(U1-A7-Pad26)",
+      "unconnected-(U1-RST-Pad3)",
+      "unconnected-(U1-3V3-Pad17)",
+      "unconnected-(U1-5V-Pad27)",
+      "unconnected-(U1-GND-Pad4)",
+      "unconnected-(U1-D11-Pad14)",
+      "unconnected-(U1-A3-Pad22)",
+      "unconnected-(U1-D12-Pad15)",
+      "unconnected-(U1-D1{slash}TX-Pad1)",
+      "unconnected-(U1-D0{slash}RX-Pad2)",
+      "unconnected-(U1-REF-Pad18)",
+      "unconnected-(U1-D13-Pad16)",
+      "unconnected-(U1-A6-Pad25)",
+      "unconnected-(U1-GND-Pad29)",
+      "unconnected-(U3-SW-Pad3)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -19,7 +44,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
